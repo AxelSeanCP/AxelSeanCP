@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Axel Sean Cahyono Putra</h1>
 <h3 align="center">A student passionate about making money through coding</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, React**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, React.js, Hapi.js**
 
 - 📫 How to reach me **axelseancp@gmail.com**
 
