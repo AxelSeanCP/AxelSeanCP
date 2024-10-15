@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,aws,bootstrap,css,docker,git,github,html,js,mongodb,mysql,nodejs,npm,opencv,postman,py,sklearn,tensorflow,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,aws,bootstrap,css,docker,express,git,github,html,js,jest,kotlin,mongodb,mysql,nodejs,npm,opencv,postgres,postman,powershell,py,rabbitmq,redis,sklearn,sequelize,tensorflow,vscode)](https://skillicons.dev)
 
 ![AxelSeanCP's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelSeanCP&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
 
